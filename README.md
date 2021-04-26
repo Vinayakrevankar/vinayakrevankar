@@ -1,5 +1,10 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/Vinayakrevankar/vinayakrevankar/blob/main/wave.gif" width="30px">
 
+My Name is Vinayak Revankar and I'm a software engineer. I'm from India, living in Belagum and currently working at Neviton. You can find me on 
+
+[2.2]: https://raw.githubusercontent.com/Vinayakrevankar/vinayakrevankar/main/linkedin-3-16.png
+
+[2]: https://in.linkedin.com/in/vinayakrevankar
 <!--
 **Vinayakrevankar/vinayakrevankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
