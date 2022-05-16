@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://github.com/Vinayakrevankar/vinayakrevankar/blob/main/wave.gif" width="30px">
 
-## My Name is Vinayak Revankar and I'm a software engineer. I'm from India, living in Belagum and currently working at Capgemini. 
+## My Name is Vinayak Revankar and I'm a software engineer. I am from India, living in Belagum and currently working at Capgemini Bangalore India. 
 You can find me on [![LinkedIn][1.2]][1].
 
 [1.2]: https://raw.githubusercontent.com/Vinayakrevankar/vinayakrevankar/main/linkedin-3-16.png
