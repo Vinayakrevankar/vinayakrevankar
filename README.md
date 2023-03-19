@@ -2,7 +2,8 @@
 
 ## My Name is Vinayak Revankar
  
-## I'm a software engineer and I am from India, living in Belagavi, KA India and currently working at Capgemini Bangalore India. 
+## I'm a software engineer and I am from India, living in Belagavi, KA India, and 
+## currently working at Capgemini Bangalore India. 
 You can find me on [![LinkedIn][1.2]][1].
 
 [1.2]: https://raw.githubusercontent.com/Vinayakrevankar/vinayakrevankar/main/linkedin-3-16.png
