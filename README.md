@@ -1,9 +1,10 @@
 # Hello! <img src="https://github.com/Vinayakrevankar/vinayakrevankar/blob/main/wave.gif" width="30px">
 
 ## My Name is Vinayak Revankar
- 
-## I'm a software engineer and I am from India, living in Belagavi, KA India, 
-## Currently working at Capgemini Bangalore India.
+
+##I'm a software engineer from India currently residing in Worcester, MA, USA.
+
+## I am pursuing a Master's degree in Computer Science at Worcester Polytechnic Institute.
 You can find me on [![LinkedIn][1.2]][1].
 
 [1.2]: https://raw.githubusercontent.com/Vinayakrevankar/vinayakrevankar/main/linkedin-3-16.png
