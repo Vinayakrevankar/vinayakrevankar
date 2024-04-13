@@ -5,11 +5,8 @@
 ## I'm a software engineer from India currently residing in Worcester, MA, USA.
 
 ## I am pursuing a Master's degree in Computer Science at Worcester Polytechnic Institute.
-You can find me on [![LinkedIn][1.2]][1].
 
-[1.2]: LinkedIn
-
-[1]: https://in.linkedin.com/in/vinayakrevankar
+You can find me on <a href="https://in.linkedin.com/in/vinayakrevankar">LinkedIn</a>
 
 <!--
 **Vinayakrevankar/vinayakrevankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
