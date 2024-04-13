@@ -4,7 +4,7 @@
 
 ##I'm a software engineer from India currently residing in Worcester, MA, USA.
 
-## I am pursuing a Master's degree in Computer Science at Worcester Polytechnic Institute.
+##I am pursuing a Master's degree in Computer Science at Worcester Polytechnic Institute.
 You can find me on [![LinkedIn][1.2]][1].
 
 [1.2]: https://raw.githubusercontent.com/Vinayakrevankar/vinayakrevankar/main/linkedin-3-16.png
