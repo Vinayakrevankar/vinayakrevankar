@@ -7,7 +7,7 @@
 ## I am pursuing a Master's degree in Computer Science at Worcester Polytechnic Institute.
 You can find me on [![LinkedIn][1.2]][1].
 
-[1.2]: https://raw.githubusercontent.com/Vinayakrevankar/vinayakrevankar/main/linkedin-3-16.png
+[1.2]: LinkedIn
 
 [1]: https://in.linkedin.com/in/vinayakrevankar
 
