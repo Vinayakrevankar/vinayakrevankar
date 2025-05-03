@@ -1,24 +1,13 @@
 # Hello! <img src="https://github.com/Vinayakrevankar/vinayakrevankar/blob/main/wave.gif" width="30px">
 
-## My Name is Vinayak Revankar
+## I'm Vinayak Revankar
 
-## I'm a software engineer from India currently residing in Worcester, MA, USA.
+I'm a passionate full-stack software engineer from India, currently based in Las Vegas, NV, USA.
 
-## I am pursuing a Master's degree in Computer Science at Worcester Polytechnic Institute.
+🎓 I'm pursuing a Master's degree in Computer Science at [Worcester Polytechnic Institute (WPI)](https://www.wpi.edu/), where I specialize in full-stack development, focusing on creating intuitive, user-centered applications that bridge technology and human experience.
 
-You can find me on <a href="https://in.linkedin.com/in/vinayakrevankar">LinkedIn</a>
+💻 Currently, I’m working as a Software Engineer Co-op at [Skillz](https://www.skillz.com/), where I help build competitive and engaging gaming platforms with an emphasis on seamless user interactions, performance optimization, and creating immersive gaming experiences.
 
-<!--
-**Vinayakrevankar/vinayakrevankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I’m currently focused on front-end development, working to enhance my skills in building responsive, accessible, and dynamic user interfaces. I'm also exploring performance optimization and integrating modern JavaScript frameworks to deliver superior user experiences.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to connect with me on [LinkedIn](https://in.linkedin.com/in/vinayakrevankar).
